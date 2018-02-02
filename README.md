@@ -21,3 +21,7 @@ git patch a b > fullname.patch
 ```
 
 Send in a PR, please make sure to include from what date onwards it is good for.
+
+## Upstream
+
+As of [2017-01-08](https://secure.phabricator.com/T10598) there is no interest from upstream in providing this as an option. Phacility instead recommends you maintain a patch yourself. This is that patch.

@@ -1,5 +1,5 @@
 # phabricator-fullname
-Unofficial patch to display Fullnames beside usernames in Phabricator.
+Unofficial patch to display Fullnames (realname) beside usernames in Phabricator.
 
 Often useful when importing users from a corporate LDAP where the usernames are auto-generated `txf032` etc.
 

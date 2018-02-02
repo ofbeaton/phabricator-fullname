@@ -1,7 +1,8 @@
-index 2b626f2..ad2ff9e 100644
+diff --git a/src/applications/phid/PhabricatorObjectHandle.php b/src/applications/phid/PhabricatorObjectHandle.php
+index 1e6812b..6379915 100644
 --- a/src/applications/phid/PhabricatorObjectHandle.php
 +++ b/src/applications/phid/PhabricatorObjectHandle.php
-@@ -340,7 +340,7 @@ final class PhabricatorObjectHandle
+@@ -417,7 +417,7 @@ final class PhabricatorObjectHandle
    public function getLinkName() {
      switch ($this->getType()) {
        case PhabricatorPeopleUserPHIDType::TYPECONST:

@@ -1,0 +1,12 @@
+index 2b626f2..ad2ff9e 100644
+--- a/src/applications/phid/PhabricatorObjectHandle.php
++++ b/src/applications/phid/PhabricatorObjectHandle.php
+@@ -340,7 +340,7 @@ final class PhabricatorObjectHandle
+   public function getLinkName() {
+     switch ($this->getType()) {
+       case PhabricatorPeopleUserPHIDType::TYPECONST:
+-        $name = $this->getName();
++        $name = $this->getFullName();
+         break;
+       default:
+         $name = $this->getFullName();

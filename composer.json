@@ -1,0 +1,12 @@
+{
+    "name": "ofbeaton/phabricator-fullname",
+    "description": "Display Fullname after usernames in Phabricator",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "Finlay Beaton",
+            "email": "ofbeaton@gmail.com"
+        }
+    ],
+    "require": {}
+}

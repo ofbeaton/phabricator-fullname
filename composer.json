@@ -1,6 +1,6 @@
 {
     "name": "ofbeaton/phabricator-fullname",
-    "description": "Display Fullname after usernames in Phabricator",
+    "description": "Unofficial Display Fullname (realname) after usernames in Phabricator",
     "license": "Apache-2.0",
     "authors": [
         {

@@ -1,5 +1,7 @@
 # phabricator-fullname
-Display Fullnames beside usernames in Phabricator
+Unofficial patch to display Fullnames beside usernames in Phabricator.
+
+Often useful when importing users from a corporate LDAP where the usernames are auto-generated `txf032` etc.
 
 ## Installing
 

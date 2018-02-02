@@ -10,6 +10,8 @@ git apply fullname.patch
 
 ## Creating
 
+Aim to make the less changes possible. This is why we only replace `getName` with `getFullname` instead of removing the whole case statement.
+
 Checkout Phabricator. Make two copies of the `phabricator` subdir, `a` and `b`. Make your changes to `b`.
 
 ```

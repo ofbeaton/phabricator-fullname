@@ -6,6 +6,10 @@
         {
             "name": "Finlay Beaton",
             "email": "ofbeaton@gmail.com"
+        },        
+        {
+            "name": "phabricator-fullname Community",
+            "homepage": "https://github.com/ofbeaton/phabricator-fullname/graphs/contributors"
         }
     ],
     "require": {}
